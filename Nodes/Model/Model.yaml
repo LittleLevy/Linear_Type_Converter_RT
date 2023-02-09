@@ -1,0 +1,23 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Slope
+  Id: g=54c4840b8e0d258203f8c5420cc96ce1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 2
+- Name: Intercept
+  Id: g=0a7b448e3073102d73b9912e6ac9f790
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: LinearConverterVar1
+  Id: g=f1fe6c84703bf845eac6807a27d372b9
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 0.0
+- Name: LinearConverterVar2
+  Id: g=5d88995729fd1173000600827ca6e2d5
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 0.0
